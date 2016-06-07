@@ -1,2 +1,2 @@
 # JS-Playground
-A place for experimenting with JavaScript
+A place for experimenting with JavaScript programming
