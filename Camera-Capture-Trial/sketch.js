@@ -8,5 +8,5 @@ function setup() {
 }
 
 function draw() {
-  image(capture, 0, 0);
+  //image(capture, 0, 0);
 }
