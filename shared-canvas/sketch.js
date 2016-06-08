@@ -30,7 +30,7 @@ function mouseDragged() {
 }
 
 function mouseReleased() {
-  saveStrings(mouse_locs, 'mouse_coords.txt');
+  saveStrings(mouse_locs, 'https://github.com/barrettwj/JS-Playground/blob/gh-pages/shared-canvas/mouse_coords.txt');
   //println("Saved!");
   return false;
 }
